@@ -1,7 +1,5 @@
-timenet
-=======
-
-TimeNET implementation for Transforming UML State Machines into Stochastic Petri Nets for Energy Consumption Estimation of Embedded Systems.i
+TimeNET implementation for Transforming UML State Machines into Stochastic Petri Nets for Energy Consumption Estimation of Embedded Systems.
+============================================================================================================================================
 
 Energy consumption in embedded and mobile systems is of prime concern today. With new and tiny embedded systems like wireless sensors which are bound to do enormous work with as low energy consumption as possible, this non functional property of the systems requires analysis and design.
 
